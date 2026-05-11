@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Portfolio Dashboard",
+  "description": "A comprehensive dashboard to explore your GitHub repositories, issues, and profile data with OAuth integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
